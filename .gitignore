@@ -1,0 +1,4 @@
+.git
+.idea
+*.code-workspace
+node_modules

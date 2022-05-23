@@ -1,0 +1,26 @@
+{
+  "name": "iobroker-readme-generator",
+  "version": "0.0.1",
+  "description": "Helper script to generate shield.io readme for ioBroker adapters",
+  "author": {
+    "name": "Matthias Kleine",
+    "email": "info@haus-automatisierung.com",
+    "url": "https://haus-automatisierung.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haus-automation/node-iobroker-readme-generator.git"
+  },
+  "keywords": [
+    "iobroker"
+  ],
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haus-automation/node-iobroker-readme-generator/issues"
+  },
+  "homepage": "https://github.com/haus-automation/node-iobroker-readme-generator#readme"
+}
