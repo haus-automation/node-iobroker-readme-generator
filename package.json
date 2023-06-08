@@ -15,7 +15,7 @@
     "iobroker"
   ],
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^1.4.0"
   },
   "main": "index.js",
   "license": "MIT",
