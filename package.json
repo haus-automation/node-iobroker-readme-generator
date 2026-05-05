@@ -1,6 +1,7 @@
 {
   "name": "iobroker-readme-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "private": true,
   "description": "Helper script to generate shield.io readme for ioBroker adapters",
   "author": {
     "name": "Matthias Kleine",
@@ -15,7 +16,7 @@
     "iobroker"
   ],
   "dependencies": {
-    "axios": "^1.13.2"
+    "axios": "^1.16.0"
   },
   "main": "index.js",
   "license": "MIT",
